@@ -6,6 +6,13 @@ The Arabic News Chatbot is an initiative aimed at developing a conversational ch
 ## Resources
 https://huggingface.co/aubmindlab
 https://huggingface.co/WebArabicAI
+https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4
+
+## Datasets
+
+The pretraining data used for the new AraBERT model is also used for AraGPT2 and AraELECTRA.
+
+
 
 ## Features
 - Allows users to inquire about daily news events.

@@ -17,3 +17,23 @@ The Arabic News Chatbot is an initiative aimed at developing a conversational ch
 
 ### Installation
 1. Clone the repository:
+### Usage
+1. Train the chatbot model using your dataset or pre-trained Arabic language models.
+2. Integrate the trained model with a chatbot interface.
+3. Test the chatbot's functionality and adjust as necessary.
+
+## Enhancements
+- Consider leveraging pre-trained models such as GPT, Mistral, or Llama.
+- Explore architectures like RAG for fine-tuning.
+- Continuous trial and error are crucial for refining the chatbot's performance over time.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Create a new Pull Request.
+
+## License

@@ -1,4 +1,4 @@
-# Arabic News Chatbo
+# Arabic News Chatbot
 
 ## Overview
 The Arabic News Chatbot is an initiative aimed at developing a conversational chatbot for the Arabic news website arabicnews.net. The goal is to provide users with a seamless and intuitive way to inquire about daily news events and query the website's content in Arabic through natural language conversations.

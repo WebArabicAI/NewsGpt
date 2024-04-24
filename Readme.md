@@ -5,7 +5,7 @@ The Arabic News Chatbot is an initiative aimed at developing a conversational ch
 
 ## Resources
 https://huggingface.co/aubmindlab
-
+https://huggingface.co/WebArabicAI
 
 ## Features
 - Allows users to inquire about daily news events.

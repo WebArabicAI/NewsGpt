@@ -8,6 +8,7 @@ https://huggingface.co/aubmindlab
 https://huggingface.co/WebArabicAI
 https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4
 https://twitter.com/fazlerocks/status/1780575372595327321
+https://www.youtube.com/watch?v=rz40ukZ3krQ
 ## Datasets
 
 The pretraining data used for the new AraBERT model is also used for AraGPT2 and AraELECTRA.
